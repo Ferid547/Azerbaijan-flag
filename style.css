@@ -1,0 +1,20 @@
+.blue {
+    background-color: #4646ff;
+    height: 255px;
+}
+
+.red {
+    background-color: #EF3340;
+    height: 255px;
+}
+
+.green {
+    background-color: #189e18;
+    height: 255px;
+}
+
+.emblems {
+    position: absolute;
+    left: 641px;
+    top: 300px;
+}
